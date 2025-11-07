@@ -1,7 +1,7 @@
 {
   "name": "@omnedia/ngx-theme-toggle",
   "description": "A simple component library to switch themes with animations.",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "peerDependencies": {
     "@angular/common": "^20.0.0",
     "@angular/core": "^20.0.0"
