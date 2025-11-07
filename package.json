@@ -1,0 +1,25 @@
+{
+  "name": "@mnedia/ngx-theme-toggle",
+  "description": "A simple component library switch themes with animations.",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^20.0.0",
+    "@angular/core": "^20.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "keywords": [
+    "npm",
+    "theme",
+    "change",
+    "animation",
+    "styling"
+  ],
+  "repository": {
+    "url": "https://github.com/omnedia/ngx-theme-toggle"
+  },
+  "author": "Markus Block (markus.block@omnedia.com)",
+  "license": "MIT"
+}

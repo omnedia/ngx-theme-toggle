@@ -1,0 +1,20 @@
+.om-theme-toggle {
+  cursor: pointer;
+  background: none;
+  border: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+
+  .lucide-icon {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+
+  &:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 2px;
+  }
+}
+

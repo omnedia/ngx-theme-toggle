@@ -1,0 +1,1 @@
+export type OmThemeAnimationStyle = 'circle' | 'diagonal' | 'wipe' | 'fade';
