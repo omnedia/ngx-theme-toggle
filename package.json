@@ -1,5 +1,5 @@
 {
-  "name": "@mnedia/ngx-theme-toggle",
+  "name": "@omnedia/ngx-theme-toggle",
   "description": "A simple component library to switch themes with animations.",
   "version": "1.0.0",
   "peerDependencies": {
